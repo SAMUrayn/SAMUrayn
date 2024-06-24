@@ -11,6 +11,6 @@ Meu nome é Samuel Scarpim dos Santos Nishimura da Silva
 
 
 
-![]https://media1.tenor.com/m/8XlY3-mh_cYAAAAC/muito-texto-mucho-texto.gif
+![](https://media1.tenor.com/m/8XlY3-mh_cYAAAAC/muito-texto-mucho-texto.gif)
 
 
