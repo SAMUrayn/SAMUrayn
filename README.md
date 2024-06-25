@@ -7,9 +7,9 @@ Meu nome é Samuel Scarpim dos Santos Nishimura da Silva 🏳️‍⚧️
 
 ------------------------------------------------------------------------------
 
-           ###Currículo
+           ### Currículo
 
-###Samara s.s.n da silva
+### Samara s.s.n da silva
 ______________________________________________________________
 Redatora e Social Media
 
