@@ -7,18 +7,18 @@ Meu nome é Samuel Scarpim dos Santos Nishimura da Silva 🏳️‍⚧️
 
 ------------------------------------------------------------------------------
 
-           ### Currículo
+
 
 ### Samara s.s.n da silva
 ______________________________________________________________
-Redatora e Social Media
+Você pode entrar em contato por aqui:
 
 📞(14) 99889-7541 ------ 📧 samaranishimurasilva@gmail.com
 ______________________________________________________________
 
 
 
-###OBJETIVOS
+### OBJETIVOS
 
 Atuar como desenvolvedora Front-end em uma empresa que valorize o trabalho em
 equipe e o desenvolvimento profissional. Possuo experiência em desenvolvimento de
@@ -26,17 +26,17 @@ sites utilizando HTML e CSS e estou sempre buscando aprender novas tecnologias. 
 maior interesse é trabalhar em projetos que tenham impacto positivo na vida das
 pessoas
 
-###FORMAÇÃO
+### FORMAÇÃO
 
 -Ensino fundamental completo
 -Cursando 3° ano do ensino Médio
 
-###Experiências
+### Experiências
 
-###2023 - 2024 | empresa Cntec
+### 2023 - 2024 | empresa Cntec
 -cargo: faxineiro/ equipe de marketing
 
-###Idiomas
+### Idiomas
 -Inglês Fluente
 
 
